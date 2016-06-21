@@ -1,0 +1,10 @@
+'use strict';
+
+const ActionTypes = {
+    INITIALIZE: 'INITIALIZE',
+	CREATE_ARTICLE: 'CREATE_ARTICLE',
+	UPDATE_ARTICLE: 'UPDATE_ARTICLE',
+	DELETE_ARTICLE: 'DELETE_ARTICLE'
+}
+
+export default ActionTypes;
